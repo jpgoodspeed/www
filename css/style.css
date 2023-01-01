@@ -4,9 +4,6 @@ h1{
 }
 
 .sample{
-    color:red;
-}
-
-#test{
-    color:aqua;
+    color:rgb(0, 102, 255);
+    background-color: blueviolet;
 }
