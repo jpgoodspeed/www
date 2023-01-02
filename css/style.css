@@ -7,7 +7,9 @@ h1{
 .container{
     border: 1px solid blue;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
+    flex-wrap: wrap;
+
 
 }
 .item{
