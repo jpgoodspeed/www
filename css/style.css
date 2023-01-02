@@ -3,13 +3,6 @@ h1{
     font-size :50px;
 }
 
-.sample01{
-    color:#1e90ff;
-    font-size :40px;
-    font-weight: bold;
-    text-align :center;
-}
-
-.sample02{
-line-height:1.7;
+.sample{
+    background-color: aquamarine;
 }
