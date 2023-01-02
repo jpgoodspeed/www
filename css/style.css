@@ -6,9 +6,13 @@ h1{
 ul{
     list-style-type:square;
     list-style-position: inside;
-    border: #7ce141;
+    border:1px solid #7ce141;
+    width: 300px;
+    padding: 10px;
 }
 li{
     background-color: aquamarine;
+    border-bottom: 1px dotted rebeccapurple;
     width: 300px;
+
 }
