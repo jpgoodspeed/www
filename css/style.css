@@ -5,7 +5,9 @@ h1{
 }
 
 li{
-display: inline;
+display: inline-block;
+width: 250px;
+background-color: blueviolet;
 }
 
 .sample{
