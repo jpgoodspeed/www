@@ -1,25 +1,14 @@
-body{
-    background-image: url(../img/A33CE443-B5DE-4920-8BDC-37CC6B72D9E2.jpeg);
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: 100px;
-}
 
 h1{
     color :#e16e41;
     font-size :25px;
 }
 
-ul{
-    list-style-type:square;
-    list-style-position: inside;
-    border:1px solid #7ce141;
-    width: 300px;
-    padding: 10px;
-}
 li{
-    background-color: aquamarine;
-    border-bottom: 1px dotted rebeccapurple;
-    width: 300px;
 
+}
+
+.sample{
+    background-color: aqua;
+    display: block;
 }
