@@ -6,6 +6,7 @@ h1{
 
 .container{
     border: 1px solid blue;
+    display: flex;
 
 }
 .item{
