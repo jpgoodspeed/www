@@ -6,6 +6,7 @@ h1{
 ul{
     list-style-type:square;
     list-style-position: inside;
+    border: #7ce141;
 }
 li{
     background-color: aquamarine;
