@@ -4,13 +4,13 @@ h1{
     font-size :25px;
 }
 
-li{
-display: inline-block;
-width: 250px;
-background-color: blueviolet;
-}
+.container{
+    border: 1px solid blue;
 
-.sample{
-    background-color: aqua;
-    display: block;
+}
+.item{
+    background-color: blueviolet;
+    color:aqua
+    margin: 10px;
+    padding: 10px;
 }
