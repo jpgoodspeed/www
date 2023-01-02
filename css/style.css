@@ -1,6 +1,8 @@
 body{
     background-image: url(../img/A33CE443-B5DE-4920-8BDC-37CC6B72D9E2.jpeg);
     background-repeat: repeat-x;
+    background-size: contain;
+    width: 10%;
 }
 
 h1{
